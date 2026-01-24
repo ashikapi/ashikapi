@@ -1,4 +1,4 @@
-<!-- # Hello! I'm Ashik Api 👋
+# Hello! I'm Ashik Api 👋
 
 A **Frontend Web Developer** from Bangladesh, passionate about **React**, **Next.js**, **Tailwind CSS**, and creating responsive and user-friendly web applications. I enjoy learning, building projects, and sharing knowledge in the tech community.  
 
@@ -47,89 +47,6 @@ A **Frontend Web Developer** from Bangladesh, passionate about **React**, **Next
 
 # 👁️ Profile Views & Followers
 [![Profile Views](https://komarev.com/ghpvc/?username=ashikapi&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ashikapi)
-[![Followers](https://img.shields.io/github/followers/ashikapi?label=Followers&style=social&color=58a6ff)](https://github.com/ashikapi?tab=followers) -->
+[![Followers](https://img.shields.io/github/followers/ashikapi?label=Followers&style=social&color=58a6ff)](https://github.com/ashikapi?tab=followers)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-# 👋 Hi there, I'm Ashik Api
-
-## 💻 About Me  
-I'm a passionate **Frontend Web Developer** from Bangladesh 🇧🇩.  
-I love building responsive, modern, and user-friendly web applications using React & Next.js.  
-Always eager to learn new technologies and grow as a developer.
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
-- 🌱 Currently learning **Advanced React & Next.js**
-- 👯 Open to collaborating on **frontend & open-source projects**
-- 💬 Ask me about **React, Next.js, Tailwind CSS**
-- 📫 Reach me at: [ashikapi65@gmail.com](mailto:ashikapi65@gmail.com)
-- ⚡ GitHub Profile: [https://github.com/ashikapi](https://github.com/ashikapi)
-
----
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashik-api-767765341/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/ashik.api.14/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ashikapi)
-
----
-
-## 🐍 Contribution Snake
-![GitHub Snake](https://github.com/ashikapi/ashikapi/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashikapi&show_icons=true&theme=github_dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikapi&layout=compact&theme=github_dark" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ashikapi&theme=github_dark" height="165"/>
-</p>
-
----
-
-## 🛠️ Languages and Tools  
-
-### 🌐 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### 🛠️ Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
----
-
-## 🚀 Featured Projects  
-
-| Project | Description | Tech Stack | Link |
-|-------|------------|-----------|------|
-| **Portfolio Website** | Personal portfolio showcasing my projects and skills | React, Tailwind CSS | Coming Soon |
-| **Frontend UI Projects** | Responsive UI components & layouts | HTML, CSS, JavaScript | Coming Soon |
-
----
-
-## 👁️ Profile Views & Followers
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashikapi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/ashikapi?label=Followers&style=for-the-badge&color=brightgreen"/>
-</p>
-
----
-
-## 📬 Get in Touch  
-- 🔗 LinkedIn: https://www.linkedin.com/in/ashik-api-767765341/  
-- 📍 Location: Bangladesh 🇧🇩
