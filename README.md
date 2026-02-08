@@ -10,7 +10,7 @@ A **Frontend Web Developer** from Bangladesh, passionate about **React**, **Next
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ashik.api.14/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashikapi65@gmail.com)
 
----
+----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ashikapi&theme=github_dark&include_all_commits=true&hide_border=true)
