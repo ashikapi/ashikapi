@@ -2,7 +2,7 @@
 
 A **Frontend Web Developer** from Bangladesh, passionate about **React**, **Next.js**, **Tailwind CSS**, and creating responsive and user-friendly web applications. I enjoy learning, building projects, and sharing knowledge in the tech community.  
 
----------
+----------
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashik-api-767765341/) 
